@@ -1,0 +1,13 @@
+body
+{
+    background-color: navy;
+}
+
+#img
+{
+    height: 25vh;
+    width: 100%;
+    background-image: url(./images/ship.jpeg);
+    background-repeat: no-repeat;
+    margin: auto;
+}
